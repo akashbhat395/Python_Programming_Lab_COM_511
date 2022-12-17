@@ -78,4 +78,3 @@ print("Temperature in Celsius = {:.2f}".format(ConvertFtoC(F)))
 
 
 
-
