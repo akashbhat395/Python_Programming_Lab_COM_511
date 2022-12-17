@@ -41,8 +41,3 @@ print("After reversing every Kth row: " + str(res))
 
 # In[ ]:
 
-
-
-
-
-
